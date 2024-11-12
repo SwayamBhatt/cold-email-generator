@@ -3,8 +3,8 @@ langchain-community
 langchain-groq
 unstructured
 selenium
-chromadb==0.5.18
+pysqlite3-binary
+chromadb
 streamlit
 pandas
 python-dotenv
-pysqlite3-binary
