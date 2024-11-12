@@ -3,7 +3,7 @@ langchain-community
 langchain-groq
 unstructured
 selenium
-chromadb
+chromadb==0.5.18
 streamlit
 pandas
 python-dotenv
